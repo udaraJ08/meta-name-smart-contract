@@ -1,0 +1,30 @@
+.full-page {
+    width:100vw;
+    height: 100vh;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+.text-lg {
+    font-size: 20px;
+}
+
+.main-topic {
+    font-size: 100px;
+}
+
+.h-90 {
+    height: 90%;
+}
+
+.p-0 {
+    padding: 0;
+}
